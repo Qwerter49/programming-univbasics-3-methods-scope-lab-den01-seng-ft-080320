@@ -10,7 +10,7 @@ def toadstool
 end
 
 def link 
-  status = "Its Dangerous To Go Out Alone! Take This."
+  status = "It's Dangerous To Go Alone! Take This."
   puts status
 end
 
